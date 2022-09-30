@@ -136,3 +136,10 @@
     
     
 }(jQuery));
+
+// let mainbtn = document.querySelector('.main-btn')
+
+// mainbtn.addEventListener('click', function(e){
+//     alert('Email sent');
+//     window.location.reload()
+// })
